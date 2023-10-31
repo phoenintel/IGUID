@@ -2,12 +2,15 @@
 ---
 
 # Phoenintel Membership
+V1.0 | en | 31/10/23 | Licensed under a [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## About PhoenIntel
 
 Phoenintel is a group of developers and researchers dedicated to finding ways to live in a web environment that is more respectful of environmental issues and privacy. We do this by highlighting what we consider to be problems on the Internet, and we present different solutions through informative and educational articles.
 
 Our mission is to raise awareness and encourage the responsible and conscious use of technology, while promoting alternatives that respect the environment and privacy.
+
+To join us, you must first complete a contact form [here.](https://www.phoenintel.org/join.html). Please note that you can revoke your membership application at any time, and that membership is for organisational purposes only and has **NO ANY legal value.**
 
 ## Join PhoenIntel
 **To join the phoenintel organisation, you need to do the following:**
@@ -16,7 +19,7 @@ Our mission is to raise awareness and encourage the responsible and conscious us
    - Send everything in the contact form
    - he administration will reply by email in the next few days.
 
-## The contact form is available [here.](https://www.phoenintel.org/join.html)
+## The contact form and the GUID generator are available [here.](https://www.phoenintel.org/join.html)
 
 **So, let's start step by step!**
 
@@ -34,8 +37,11 @@ To become a member of Phoenintel, you must generate a unique identifier, called 
 2. **GUID Generation** :
    Once you have filled in the necessary information, a unique identifier will be generated for you.
 
-## The GUID generator is available [here.](https://trinket.io/embed/python3/ce4b436c1b?outputOnly=true&runOption=run&start=result)
- If this doesn't work, you'll need to download the GUID.py file to your computer and run it to generate your GUID.
+## GUID Generator
+
+The GUID generator is available at the same page as the contact form.
+ 
+ If this doesn't work, you'll need to download the GUID.py file from [this github repo](https://github.com/phoenintel/IGUID) to your computer and run it to generate your GUID.
 
 ## Composition of the GUID
 
