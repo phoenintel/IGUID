@@ -6,7 +6,7 @@ def generer_identifiant(initials, CC, internal_level, date, temporary_member):
     nombre_accroche = f'{random.randint(1000, 9999)}-{random.randint(1000, 9999)}-{random.randint(1000, 9999)}'
 
     # Title
-    print('========================\n==PHOENIX ID Generator==\n========================\n')
+    print('===================\n==IGUID generator==\n===================\n')
     print('This work is licensed under a CC BY-NC-SA 4.0 License. Read it here: https://creativecommons.org/licenses/by-nc-sa/4.0/')
     print('Source code: https://github.com/phoenintel/IGUID\n')
     
@@ -14,7 +14,7 @@ def generer_identifiant(initials, CC, internal_level, date, temporary_member):
     initials = input('Enter your initials in uppercase letters (the first letter of your surname and the first letter of your first name): ')
     CC = input('Enter your country code in uppercase letters (e.g. US for united states): ') 
     internal_level = input('Enter your infrastructure level (see documentation for more information): ')
-    member_number = input('Enter your member number (if necessary, ask the administration for it): ')
+    member_number = input("Enter your member number (if necessary, ask the administration for it, if your don't know your member number, don't worry, enter the letter N in upper case): ")
 
     # Generate date with JJ.MM.AA format
     date = date.strftime("%d.%m.%y")
