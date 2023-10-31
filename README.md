@@ -10,7 +10,7 @@ Phoenintel is a group of developers and researchers dedicated to finding ways to
 Our mission is to raise awareness and encourage the responsible and conscious use of technology, while promoting alternatives that respect the environment and privacy.
 
 ## Join PhoenIntel
-**To join the phoenintel organisation, you need to do the following:** :
+**To join the phoenintel organisation, you need to do the following:**
    - Generate an IGUID (Internal Globally Unique ID)
    - Attach a cover letter
    - Send everything in the contact form
